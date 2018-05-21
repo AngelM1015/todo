@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+I used Rails, Ruby and ActiveRecord to create my DB..
+I also used a little bit of bootstrap to add specific view-ability to it.
